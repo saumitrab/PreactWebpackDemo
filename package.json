@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "webpack-dev-server --inline"
+  },
+  "devDependencies": {
+    "webpack": "^3.0.0",
+    "webpack-dev-server": "^2.5.0"
+  },
+  "dependencies": {
+    "preact": "^8.1.0"
+  }
+}
